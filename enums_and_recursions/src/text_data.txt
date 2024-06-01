@@ -1,0 +1,3 @@
+Series Type: LUCAS
+Num of loops: 7
+Sum: 75
